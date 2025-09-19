@@ -26,3 +26,11 @@ This guide will walk you through the essential steps to effectively use the **T-
   Step-by-step instructions on how to deploy your Toucan SSG site to **GitHub Pages**, making your documentation accessible online with minimal setup.
 
 By the end of this guide, you will have a fully customized and deployed documentation site using the T-Doc template. 🚀
+
+## How to Customize
+This page is just a template, so feel free to modify or replace it to match your project’s identity.
+
+To edit this page, update the content in:
+📂 /contents/index.md
+To customize the template itself, modify:
+📂 /templates/default/views/pages/home.mustache
