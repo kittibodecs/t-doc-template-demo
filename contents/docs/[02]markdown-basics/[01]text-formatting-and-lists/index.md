@@ -8,7 +8,8 @@ order: 1
 
 # Text Formatting and Lists
 
-Markdown is a lightweight markup language for formatting plain text. Here’s how to use its essential syntax.
+Markdown is a lightweight markup language for formatting plain text.
+Here’s how to use its essential syntax.
 
 ---
 
@@ -22,15 +23,17 @@ Use `#` for headings. The number of `#` symbols determines the level:
 
 ```
 # Heading 1
-
 ## Heading 2
-
 ### Heading 3
+#### Heading 4
+##### Heading 5
 ```
 
 ---
 
 ### Bold and Italics
+
+Highlight text by making it italic or bold:
 
 ```
 Bold: **text** or __text__

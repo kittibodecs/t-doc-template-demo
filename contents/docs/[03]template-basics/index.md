@@ -2,7 +2,7 @@
 type: category
 title: 'Template basics'
 description: ''
-order: 2
+order: 3
 ---
 
 # Template basics
