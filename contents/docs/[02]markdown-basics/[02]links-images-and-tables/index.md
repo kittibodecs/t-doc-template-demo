@@ -24,7 +24,7 @@ Use square brackets `[ ]` for the link text and parentheses `( )` to enclose the
 
 ---
 
-### Links with Titles
+### Links with Titles (Hover Text)
 
 Add a title by including text in quotes after the URL:
 
@@ -32,7 +32,21 @@ Add a title by including text in quotes after the URL:
 [Link Text](https://example.com "Optional Title")
 ```
 
+Hovering will show "Optional Title". 
+
 ---
+
+### Links with Anchors
+
+Toucan automatically generates HTML IDs (anchors) for headings.
+	•	Headings become lowercase, words are separated by hyphens.
+	•	Special characters are usually stripped.
+
+You can use it by writing a hashtag (#) and attach the generated ID afterwards:
+
+```
+[Link Text](/docs/template-basics/change-the-site-logo/#option-2-modify-the-template-instead)
+```
 
 ## Images
 
@@ -44,7 +58,11 @@ Similar to links, but with an exclamation mark `!` at the beginning:
 ![Alt Text](https://example.com/image.jpg)
 ```
 
-The image URL can be relative or absolute.
+The image URL can be relative or absolute:
+	•	docs/setup.md → relative path inside your repo
+	•	https://example.com/docs → absolute external link.
+
+  
 
 ---
 
@@ -94,6 +112,12 @@ function example() {
 ```
 
 ---
+
+### Troubleshooting
+
+- Keep case sensitivity in mind to avoid mistakes. 
+- Avoid spaces and use hyphens(-) and dashes(_) instead.
+- Stick to lowercase filenames for your assets.
 
 ### Wrapping Up
 

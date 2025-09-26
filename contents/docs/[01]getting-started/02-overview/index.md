@@ -10,12 +10,12 @@ order: 2
 
 ## What will you find? 
 
-- **Customization of T-Doc Template**  
-  Easily modify the template's elements, including colors, typography, and layout structure to match your branding or content style. 
-
 - **Markdown Syntax Essentials**  
   A quick reference on Markdown formatting to help you write and structure your documentation efficiently.
-  The essentials are covered: headings, text styles, block quotes, lists, links, and images.
+  Headings, text styles, block quotes, lists, links, and images are covered.
+
+- **Customization of T-Doc Template**  
+  Easily modify the template's elements, including colors, typography, and layout structure to match your branding or content style. 
 
 - **Deployment to GitHub Pages**  
   Step-by-step instructions on how to deploy your Toucan SSG site to **GitHub Pages**, making your documentation accessible online with minimal setup.
