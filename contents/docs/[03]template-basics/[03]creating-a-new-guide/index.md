@@ -69,7 +69,7 @@ Below the metadata in `index.md`, write the full content of your guide using Mar
    slug: my-category/my-first-guide
    title: "My First Guide"
    description: "This is an introduction to my first guide."
-   order:
+   order: 3
    ---
 
    ## Welcome to My First Guide
