@@ -24,6 +24,6 @@ If you’d like to help improve Toucan on Windows, consider submitting a PR to t
 
 If you already have Toucan up and running, just use this guide to apply any customization your project needs. 
 
-You can get started by forking [T-Doc template demo repository](https://github.com/toucansites/t-doc-template-demo)
+You can get started by forking [T-Doc template demo repository](https://github.com/toucansites/t-doc-template-demo).
 
 If you still hesitate whether Toucan matches your needs or not, drop us an e-mail to support@binarybirds.com or get to know it reading [Toucan documentation](https://toucansites.com/docs/).
