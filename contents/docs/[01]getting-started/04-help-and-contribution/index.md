@@ -14,7 +14,8 @@ If you have any questions or need further assistance, feel free to:
 
 - [Contact](/contact) us directly.
 - Check the [Toucan documentation](https://toucansites.com/docs/) for detailed developer guidance.
-- If you've found a bug, create an issue on [GitHub](https://github.com/toucansites/toucan) so that we can resolve it with the next update. 
+
+If you've found a bug, create an issue on [GitHub](https://github.com/toucansites/toucan) so that we can resolve it with the next update. 
 
 ## Contribution
 
