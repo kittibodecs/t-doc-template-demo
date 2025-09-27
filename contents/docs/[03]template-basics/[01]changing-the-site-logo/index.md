@@ -22,7 +22,7 @@ Navigate to the **assets/images/logos/** directory in your project folder.
      - **logo.png**: The primary logo used across the site.
      - **logo~dark.png**: A variation of the logo used in dark mode (if your site supports it).
 
-Create and name your custom logos
+Create and name your custom logos:
    -  **Recommended File Format**: Use PNG with a transparent background for best results.
    If you prefer other formats (e.g., SVG or JPG).
    - **Rename your custom logos** to match the default logo file names:
