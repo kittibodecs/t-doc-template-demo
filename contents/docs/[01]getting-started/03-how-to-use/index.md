@@ -12,7 +12,7 @@ order: 3
 
 ## How Toucan templates work
 
-The T-Doc template is powered by our Toucan static site generator, which combines Markdown for content creation with Mustache templates for layout and design. Markdown lets you write clean, formatted text in plain-text files that Toucan automatically converts into HTML, while Mustache provides an elegant way to customize layouts and even build dynamic components. Together, these tools give you full control over both the content and the appearance of your site, making it easy to add, edit, and manage pages while keeping the design professional and visually appealing.
+The T-Doc template is powered by [Toucan](https://toucansites.com/), which combines Markdown for content creation with Mustache templates for layout and design. Markdown lets you write clean, formatted text in plain-text files that Toucan automatically converts into HTML, while Mustache provides an elegant way to customize layouts and even build dynamic components. Together, these tools give you full control over both the content and the appearance of your site, making it easy to add, edit, and manage pages while keeping the design professional and visually appealing.
 
 ## How to make Changes
 
