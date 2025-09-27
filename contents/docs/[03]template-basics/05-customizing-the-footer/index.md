@@ -64,14 +64,14 @@ Edit the `footer.mustache` to adjust the structure or additional content. Exampl
    ```html
    <footer>
      <div class="footer-links">
-       {{#footer-links}}
+       {{#site.footer-links}}
        <a href="{{url}}">{{label}}</a>
-       {{/footer-links}}
+       {{/site.footer-links}}
      </div>
      <div class="footer-socials">
-       {{#footer-socials}}
+       {{#site.footer-socials}}
        <a href="{{url}}" target="_blank">{{title}}</a>
-       {{/footer-socials}}
+       {{/site.footer-socials}}
      </div>
    </footer>
    ```
